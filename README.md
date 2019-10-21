@@ -1,2 +1,9 @@
 # Simplifying News Digitalisation
-In an age of information overload, there is an explosion of online news articles from various publication centres, causing dilemma for readers to choose from. The fact that none of the publications stand out for readers signify that there are some issues with the current digitalization of news articles. Although readers prefer text news, a convenient platform with ease of access and concise articles, we often see a cluttered news website with detailed and long articles. Moreover, more publications seem to be adopting video news as they frequently include video news in the articles. These lead to a gap in readers’ wants and current solutions. In this research paper, the team seeks to explore the use of text analytics tools such as topic modelling and text summarization techniques to resolve the gaps. The results were pleasing as we were able to obtain many distinct topics and hence reduce the cluttering due to news headline display as well as to generate summary for news articles.
+This project aims to conduct text analysis such as topic modelling and text summarization to simplify digital news reading and improve reader experiences.
+
+Contributed by: Jiang Nan, Tey Wei Jie, Wang Yechun, Wang Yuxin, Yao Yu, Zhu Chenzi
+Pls contact nan.jiang.2018@mitb.smu.edu.sg for any questions.
+
+Data:
+The dataset is sourced from Kaggle. There are more than 150,000 news from 15 US mainstream publications, such as New York Times, CNN, Business Insider, and National Review. The news in the dataset primarily falls between 2016 and July 2017.
+

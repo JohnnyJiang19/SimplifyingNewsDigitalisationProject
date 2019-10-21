@@ -17,11 +17,11 @@ The dataset is sourced from Kaggle. There are more than 150,000 news from 15 US 
 **Report:**<br>
 Our full report can be found in: 'Project Report.docx'
 
-Requirements: 
+**Requirements:**<br>
 Python 3.7 <br>
 Jupyter Notebook <br>
 
-Python Libraries Required:
+**Python Libraries Required:**<br>
 numpy<br>
 pandas<br>
 NLTK<br>
